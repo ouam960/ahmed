@@ -1,6 +1,6 @@
 {
    "appName":"Zoom Guide App",
-   "adCounter":2,
+   "adCounter":3,
    "startApp":"",
    "adAppId":"ca-app-pub-3106759251304631~9820326452",
    "adBannerAd":"ca-app-pub-3940256099942544/6300978111",
@@ -9,6 +9,6 @@
    "fbBannerAd":"",
    "fbNativeAd":"",
    "fbInterstitialAd":"",
-   "packageName":"com.zoom.niched.tips",
-   "storeName":"com.zoom.niched.tips"
+   "packageName":"com.zoom.ahmed.guide",
+   "storeName":"com.zoom.ahmed.guide"
 }
