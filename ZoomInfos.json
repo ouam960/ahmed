@@ -24,27 +24,174 @@ CollapseWhat should I do if I lose my device?
 CollapseWhat are mobile preferences and how do I change mine?"
   },
   {
-     "title":"Where do I find the desktop or mobile app?",
-     "contenu":"Once you have signed up or logged in, click on Host a Meeting, the desktop app will auto-download. Alternatively, you can click on the download footer link at http://zoom.us For iOS, vist the Apple App Store or by searching 'zoom' For Android, visit Google Play or by searching 'zoom HD meetings'."
+     "title":"Text Banking",
+     "contenu":"What are the text banking commands?
+ACT: View account activity on your primary account. To view account activity of another account, include the account nickname. Example: ACT VISA
+BAL: Receive the balance of your primary account. To receive the balance of another account, include the account nickname. Example: BAL SAV
+BAL ALL: Receive the balance of all your enrolled accounts
+COM: Receive a list of all text banking commands
+DUE: View information for your credit card account(s)
+TRA: Transfer funds between your Wells Fargo Checking and Savings accounts and to your Wells Fargo Credit card
+HELP: Get Wells Fargo contact information
+STOP TEXT: Disable text banking
+How is text banking secure?
+Text banking is secure because:
+You view accounts by nicknames you set, not account number
+No detailed personal information sent
+Text banking won’t send unsolicited text messages
+It’s covered by our Online Security Guarantee
+Will text banking work on my phone?
+      Text banking will work as long as your carrier supports text messaging. Check with your carrier for details about text messaging charges.
+Does my mobile carrier support text banking?
+Currently, text banking is supported by the following carriers:
+AT&T
+Alltel
+Boost
+Cricket Communications
+Nextel
+Sprint
+T-Mobile
+US Cellular
+Verizon Wireless
+Virgin
+
+Regional Carriers:
+ACS Wireless
+All West Communications
+Appalachian Wireless
+Bluegrass Cellular
+Breakaway Wireless
+Carolina West Wireless
+C-Spire
+Cellcom
+Cellular One of East Central Illinois
+Cellular One of NEPA
+Centennial Wireless
+Chat Mobility
+Cincinnati Bell
+CTC
+Duet Wireless US
+Element Mobile
+Farmers Mutual Telephone
+GCI Communications
+Golden State Cellular
+Illinois Valley Cellular
+Immix Wireless
+Inland Cellular
+iWireless
+Nex-Tech Wireless
+nTelos Wireless
+Northwest Missouri Cellular
+Nucla-Naturita Telephone Co
+Panhandle Telecommunications US
+Pioneer Cellular
+Plateau Wireless
+Pocket Wireless
+Revol Wireless
+Silver Star PCS
+Simmetry Wireless
+Snake River PCS
+Sprocket Wireless
+Strata Networks
+Syringa Wireless
+Thumb Cellular
+Unicel
+Union Wireless
+United Wireless
+Viaero Wireless
+West Central Wireless
+Are text commands case-sensitive?
+      No, commands can be sent in lowercase (bal) or all capital letters (BAL).
+Will text banking work on my pre-paid service plan?
+At this time, the following pre-paid carriers do not support text banking:
+Some Verizon Mobile Virtual Network Operators (MVNOs) (e.g. MIGO)
+TRACFONE®"
   },
   {
-     "title":"What do I do after I launch the app?",
-     "contenu":"After you launch the app, you have two options. You can Join a meeting, or Host a meeting. If you do not wish to log in, and just want to join a meeting in progress click on Join a meeting. If you would like to log in and start you own meeting, click on Host a meeting.\nNote: The client version number is located on the bottom right-hand corner of this dialog box."
+     "title":"Mobile Websites",
+     "contenu":"How is the mobile website different from wellsfargo.com?
+      The mobile website is optimized to easily make transfers between your accounts and to other customers, pay your bills, find ATMs, and more, from your device.
+       For access to all products and services Wells Fargo offer, visit wellsfargo.com via your computer.
+Do I need a username and password to access wellsfargo.com?
+      Yes, sign on using your Wells Fargo Online® username and password.
+How is Wells Fargo Mobile secure?
+      Wells Fargo Mobile is secure because:
+128-bit encryption masks your sensitive information
+When you close your browser or the app the session ends
+It’s covered by our Online Security Guarantee
+Can I make transfers to another Wells Fargo customer with Wells Fargo Mobile?
+      Yes, but before you can make a mobile transfer to another Wells Fargo customer, you must first add the recipient to your transfer list on Wells Fargo Online via your computer."
   },
   {
-     "title":"How do I log in?",
-     "contenu":"To log in, you can use the email and password that you have created, or use your Google (Gmail or Google App) or Facebook account. Tip: If you have not created a user email and password, please click on 'Sign Up' to create a zoom account.\n Note: if you have a zoom account, but cannot remember your password. Please select 'Forgot your password'"
+     "title":"Apps",
+     "contenu":"What apps are available?
+      Wells Fargo has custom apps for Android devices.
+Is there an app for my device?
+      Yes, there are apps designed specifically for use for your device. Download the Wells Fargo app from Google Play Store or Amazon App Store for Android smartphones and tablets.
+How are Wells Fargo apps secure?
+Well Fargo apps are secure because:
+128-bit encryption masks your sensitive information
+When you close your browser or the app, the session ends
+They’re covered by Well Fargo Online Security Guarantee
+How do I know I am downloading a legitimate app?
+      To ensure the safety of your personal and account information, download apps from reputable sources only. When downloading a Wells Fargo app for your mobile device, ensure that Wells Fargo Bank is listed as the app publisher or seller.
+What is Sign On with Android Fingerprint?
+      Fingerprint Sign On allows you to use your device’s fingerprint feature to sign on to the Wells Fargo app with your fingerprint instead of entering your username and password."
   },
   {
-     "title":"How do I start a meeting?",
-     "contenu":"Once you have logged in, you will see the main dialog box as shown below. The default tab is 'Home'.\n You can: -Click on Video Meeting to start an instant zoom meeting \n-Click on Screen Share Meeting to start a meeting while sharing your 'desktop' or 'application' \n-Click on Schedule to set up a future meeting (to learn more about scheduling meetings, click here) 5 | P a g e  Click on Join to join a meeting that has already been started (to learn more about joining a meeting, click here) My Meetings The 'My Meeting' tab shows your upcoming scheduled or recurring meetings. You can also click on the 'Recorded' tab to view previously recorded meetings.\nYou can:\n-Start: Selecting start will start the pre-scheduled meeting that you have listed in your upcoming meetings.\n-Edit: You can edit or update your scheduled meeting.\n-Delete: Selecting delete will permanently delete your scheduled meeting.\n-Copy URL: Here you can copy your scheduled meeting(s) URL and manually paste into an email, IM, SMS etc. Note: if you do not see your scheduled meeting, click the refresh tab in the upper right-hand corner to update/refresh the meeting list. Additionally, make sure to schedule enough time for your meeting, meetings will end as scheduled."
+     "title":"Deposit",
+     "contenu":"What is the Wells Fargo Mobile Deposit service?
+      With Wells Fargo Mobile Deposit (“Mobile Deposit”) you can make a deposit directly into your eligible checking or savings account using the Wells Fargo Mobile App.
+
+Mobile Deposit lets you submit photos of the front and back of your endorsed check. You can save time with fewer trips to a Wells Fargo ATM or branch.
+
+We use advanced encryption and security technology:
+Wells Fargo Online credentials are not stored on your mobile device.
+Check images are not stored on your mobile device.
+You view accounts by nicknames you can define, not by account numbers.
+128-bit encryption masks your sensitive information.
+Who’s eligible to use the Mobile Deposit service?
+     Wells Fargo Online and Wells Fargo Business Online® customers who are at least 18 years of age, maintain an eligible checking or savings account, and who have accepted the Mobile Deposit Terms and Conditions are eligible to use Mobile Deposit. Enrollment is subject to availability.
+How do I get Mobile Deposit?
+      Wells Fargo Mobile Deposit (“Mobile Deposit”) is available through the Wells Fargo Mobile app. If you already have Wells forg app, update it with the most recent version.
+How does Mobile Deposit work?
+It’s secure and easy to use.
+
+Sign on to your Wells Fargo Mobile app then follow these simple steps:
+Select the deposit function.
+Choose the account where you want to deposit your check.
+Enter the check amount.
+Take a picture of the front and back of your endorsed check with your mobile device. For photos that work best, follow these guidelines:
+Place your check on a dark-colored, plain surface that’s well lit
+Position your camera directly over the check (not at an angle)
+Fit all 4 corners in the guides of your mobile device’s camera screen
+     5.Submit your deposit.
+You’ll receive a confirmation message on your mobile device for each successful deposit. Plus, we’ll send a deposit confirmation to your primary email address and your Wells Fargo Online secure mailbox.
+What types of checks can I deposit?
+    You can deposit checks payable in U.S. dollars and drawn at any U.S. bank, including personal, business, and government checks. They must also be payable to, and endorsed by the account holder.
+       International checks, U.S. savings bonds, U.S. postal money orders, remotely created checks (whether in paper form or electronically created), convenience checks (checks drawn against a line of credit), and cash are not eligible for Mobile Deposit.
+What are the cut-off times for deposits made with Mobile Deposit?
+      Mobile deposited funds are available on the day after the deposit credit date, unless a hold is applied. If a hold is required on the check, you’ll receive a message during the deposit, and you’ll be able to cancel the deposit. If you continue with the deposit, you can get information about the funds availability through Wells Fargo Mobile or Wells Fargo Online.
+      For example, if you make a deposit before the cut-off time on a Monday funds are generally available on Tuesday. If you make a deposit after the cut-off time on a Friday, funds are typically available on the following Tuesday. Business days are Monday through Friday except holidays. The deposit credit date is provided on your Mobile Deposit confirmation screen and in the email we send you when your transaction is complete.
+When will my mobile deposit be available?
+      Funds are available on the next business day after the day of your deposit, unless a hold is applied. If a deposit is held (or a hold is applied), funds are posted to your account but are not immediately available to cover debits or withdrawals. Common reasons include:
+Large deposit amount
+Frequent overdrafts
+Deposited check returned unpaid
+Indications a deposited check may not be paid
+If a hold will be applied to any portion of your deposit, you’ll receive a message on your mobile device, including when funds will be available, prior to submitting your deposit. You can cancel your deposit at this time. If you continue and submit your mobile deposit, you’ll receive information about the hold in the confirmation email sent to your primary email address and secure inbox.
+
+You’ll know that your deposit is available when the amount appears in the available balance2 of the account you selected when you submitted your mobile deposit.
+How do I select a default account for Mobile Deposit?
+      To make an account the default for Mobile Deposit, select the account from the Select Account screen, check the Default account for mobile deposit box, and select Continue to proceed.
+Note: If you have only one account eligible for Mobile Deposit, it will automatically be your default account.
+Is there a limit on how much money I can deposit using the Wells Fargo Mobile app?
+      Yes, your mobile deposit limits are shown for each eligible account within the Amount field when making a deposit.
+What should I do with my paper check after using mobile deposit?
+      After depositing your check using Mobile Deposit, please follow these best practice guidelines:
+Write “Mobile deposit on Date” on the front of your check. The date should be the month, day, and year of your deposit.
+Securely store your check for 5 days after your deposit, and then destroy it. This allows sufficient time in case the original check is required for any reason.
+ "
   },
-  {
-     "title":"How do I configure the settings?",
-     "contenu":"You can find the Settings tab in the main dialog box or in the meeting menu bar.\nAfter clicking Settings, you will have the following options: \nAudio:\nTo Test Your Audio\n-Click on 'Settings' on your PC or Mac client, or during a video meeting, click on 'Settings' in the menu bar (toggle to activate). Then click on the 'Audio' tab to test your audio setting.\n-Select the microphone drop down and try a different audio source if the other side can't hear you\n-Select the speaker drop down and try a difference speaker source if you can't hear the other side.\nVideo:\n To Test Your Video Camera before or during a video meeting, click on 'Settings' in the client menu, then Click on the 'Video' tab to test your video selection.\n-Here you can also click on the drop down arrow to switch between Cameras that you have connected to your computer.\nGeneral: You can select additional preferences Feedback: We welcome any questions, comments, or feedback.\nRecording: Here you can browse/open your stored recordings (all recordings are stored on your local device/computer).\nAccount: Here you can upgrade your account to pro user or, manage your account details (Learn more about Account)."
-  },
-  {
-     "title":"What can I do in a meeting?",
-     "contenu":"Once you have started or joined a meeting, you can perform the following actions from the menu bar located at the bottom of the meeting window(move your mouse to toggle). You can:\n-Invite more people to join by email, IM, SMS (mobile users) or meeting ID (learn more).\n-Screen share your desktop or specific application window (learn more).\n-Group or private chat.\n-Participants and Chat (learn more).\n-Mute/unmute audio.\n-Stop/start video.\n-Configure your settings (learn more).\n-Leave or end the video meeting."
-  }
+  
 ]
