@@ -1,31 +1,34 @@
 [
   {
-     "title":"What is Zoom?",
-     "contenu":
+     "title":"Where is Samsung Pay available?",
+     "contenu":"It's currently available in 27 countries around the world (deep breath): the US, UK, Australia, Belarus, Brazil, Canada, China, France, Hong Kong, India, Indonesia, Italy, Kazakhstan, Malaysia, Mexico, Puerto Rico, Russia, Singapore, South Africa, South Korea, Spain, Sweden, Switzerland, Taiwan, Thailand, United Arab Emirates and Vietnam."
   },
   {
-     "title":"How do I begin?",
-     "contenu":
+     "title":"Which phone, bank, card and carrier do I need?",
+     "contenu":"Samsung Pay works with Galaxy phones, from the latest Galaxy S20 Ultra all the way back to the Galaxy Note 5 ($180 at Amazon) from 2015. It's also available on some smartwatches including the Galaxy Watch ($260 at Best Buy), Galaxy Watch Active ($150 at Best Buy) 2, Gear S2 ($146 at Amazon) (only for transactions on NFC terminals), Gear S3 and Gear Sport.\n\nAll major carriers in the US support Samsung Pay: AT&T, Cricket, MetroPCS, Sprint, T-Mobile, Verizon and US Cellular. You will also need a Visa, MasterCard, Discover or American Express card. See the full list of supported banks and cards in the chart below.\n\nSamsung Pay users will also be able to apply for a new debit card starting summer 2020. Samsung will offer the card in partnership with personal finance company SoFi."
   },
   {
-     "title":"Where do I find the desktop or mobile app?",
-     "contenu":
+     "title":"Where can I use Samsung Pay?",
+     "contenu":"Samsung claims that its system will work with almost all point-of-sale systems: NFC, magnetic stripe and EMV (Europay, MasterCard and Visa) terminals for chip-based cards.\n\nIt generally won't work with readers where you need to physically insert your card into a slot, such as those found at gas stations or on ATMs."
   },
   {
-     "title":"What do I do after I launch the app?",
-     "contenu":
+     "title":"How do I set it up?",
+     "contenu":"Once the Samsung Pay app is installed, sign in with your Samsung account if you haven't already. The app will prompt you to register a PIN, fingerprint or iris scan if you don't already have one set up. You can now add a credit, debit, gift or membership card by scanning it with the camera. You'll also have the option to add your PayPal account as well.\n\nCheck that the number, name and expiration date from the scanned cards are all correct. Samsung Pay will verify a credit or debit card with your bank and you'll have the option to get an SMS, email or make a phone call to confirm.\n\nA total of 10 cards can be added to Samsung Pay."
   },
   {
-     "title":"How do I log in?",
-     "contenu":
+     "title":"How does it work?",
+     "contenu":"Samsung Pay uses two technologies that allow it to work almost anywhere. The first is near-field communication (NFC) for tap-to-pay transactions at contactless terminals. The second is magnetic secure transmission (MST) for older terminals where you would normally swipe a card. The phone emits a magnetic signal to simulate the magnetic strip found on the back of a credit or debit card when you hold the phone against one of these readers."
   },
   {
-     "title":"How do I start a meeting?",
-     "contenu":
+     "title":"How do I make a payment with Samsung Pay?",
+     "contenu":"From the lock screen, swipe up from the small Samsung Pay bar. Select the card you want to pay with, then place your finger on the fingerprint scanner to verify, use the iris scan or enter your PIN. Tap the back of the phone against the payment terminal."
+    },
   {
-     "title":"How do I configure the settings?",
-     "contenu":
+     "title":"How does it differ from Apple Pay or Google Pay?",
+     "contenu":"The main difference is that Samsung Pay works at almost all stores that accept credit or debit cards, not just those with tap-to-pay NFC terminals. Samsung Pay also offers a cash back feature, promotions including bonus Samsung account points and vouchers with a number of participating retailers. Chase Pay users can also link their existing digital wallet with Samsung Pay. \n\nApple Pay and Google Pay let you pay friends and family through Apple Cash over iMessage, and Google Pay over Gmail, messages or the Google Assistant. Samsung Pay also lets you make peer-to-peer payments. However, you will need to sign up for a prepaid debit card called Samsung Pay Cash and your friends or family will also need to have a Samsung Pay Cash account to receive money."
   },
   {
-     "title":"What can I do in a meeting?",
-     "contenu":
+     "title":"Is it secure?",
+     "contenu":"Samsung Pay does not store the account or credit card numbers of cards on the device, instead using tokenization for transactions. Each time a purchase is made, the phone sends two pieces of data to the payment terminal: the first is a 16-digit token that represents the credit or debit card number, while the second is a one-time code or cryptogram generated by the phone's encryption key."
+    }
+]
