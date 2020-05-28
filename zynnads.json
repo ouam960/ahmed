@@ -2,13 +2,13 @@
    "appName":"Garageband Guide App",
    "adCounter":1,
    "startApp":"",
-   "adAppId":"ca-app-pub-3940256099942544~3347511713",
-   "adBannerAd":"ca-app-pub-3940256099942544/6300978111",
-   "adNativeAd":"ca-app-pub-3940256099942544/2247696110",
-   "adInterstitialAd":"ca-app-pub-3940256099942544/1033173712",
+   "adAppId":"ca-app-pub-3940256099942544~3347511700",
+   "adBannerAd":"ca-app-pub-3940256099942544/6300978100",
+   "adNativeAd":"ca-app-pub-3940256099942544/2247696100",
+   "adInterstitialAd":"ca-app-pub-3940256099942544/1033173700",
    "fbBannerAd":"",
    "fbNativeAd":"",
    "fbInterstitialAd":"",
-   "packageName":"com.grageband.mobile.guide",
-   "storeName":"com.grageband.mobile.guide"
+   "packageName":"com.zynn.app.guide",
+   "storeName":"com.zynn.app.guide"
 }
