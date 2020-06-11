@@ -1,31 +1,34 @@
 [
   {
-     "title":"What is Zoom?",
-     "contenu":
+     "title":"What is Robinhood?",
+     "contenu":"Robinhood is a free-trading app that lets investors trade stocks, options, exchange-traded funds and cryptocurrency without paying commissions or fees. Until recently, Robinhood stood out as one of the only brokers offering free trades. But with many big-name online brokers eliminating trading commissions and fees in late 2019, Robinhood's bright light has dimmed a little. That said, it's still a solid choice, and currently it's one of the few brokers that gives investors the opportunity to trade cryptocurrency.\n\nRobinhood offers both web and mobile trading, but the platforms are purposely bare bones, and some investors may find the range of tradable securities and account options lacking.\n\n» Want help managing your investments"
   },
   {
-     "title":"How do I begin?",
-     "contenu":
+     "title":"Account minimum",
+     "contenu":"$0 for brokerage account and for Robinhood Gold account; $2,000 for a margin account (regulatory minimum)."
   },
   {
-     "title":"Where do I find the desktop or mobile app?",
-     "contenu":
+     "title":"Mobile app",
+     "contenu":"Mobile trading platform includes customizable alerts, news feed, candlestick charts and ability to listen live to earnings calls."
   },
   {
-     "title":"What do I do after I launch the app?",
-     "contenu":
+     "title":"Commissions",
+     "contenu":"What’s better than free? Robinhood’s commitment to providing 100% commission-free stock, options, ETF and cryptocurrency trades is admirable, and the savings for investors who trade frequently is significant. After all, every dollar you save on commissions and fees is a dollar added to your returns. Still, these days many big-name brokers also offer free trades, so it makes sense to compare other features when picking a broker."
   },
   {
-     "title":"How do I log in?",
-     "contenu":
+     "title":"Fractional shares",
+     "contenu":"Like some other brokers, including Interactive Brokers and Charles Schwab, Robinhood has introduced fractional shares. That means you can pay as little as $1 for a portion of a share, even if that share's full price is in the hundreds of dollars. This feature makes it much easier to build a diversified portfolio — you're able to buy many more companies, even if you don't have a lot of money to invest."
   },
   {
-     "title":"How do I start a meeting?",
-     "contenu":
-  {
-     "title":"How do I configure the settings?",
-     "contenu":
+     "title":"High-yield savings",
+     "contenu":"In December 2019, Robinhood started offering a cash management account that currently pays 0.30%. The account comes with a debit card and free ATM withdrawals from more than 75,000 ATMs, and offers up to $1.25 million of FDIC insurance thanks to Robinhood's agreements with several banks."
+  },
+    {
+     "title":"Streamlined interface",
+     "contenu":"This could be a negative, as the service doesn’t offer all the bells and whistles of a typical online stock broker. But for investors who know what they want, the Robinhood platform is more than enough to quickly execute trades. It supports market orders, limit orders, stop limit orders and stop orders."
   },
   {
-     "title":"What can I do in a meeting?",
-     "contenu":
+     "title":"Robinhood Gold",
+     "contenu":"Robinhood Gold offers investors the ability to trade on margin, also known as borrowed money. The opt-in service carries a flat monthly fee of $5."
+  }
+]
